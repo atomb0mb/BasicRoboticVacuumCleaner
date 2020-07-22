@@ -1,10 +1,6 @@
 # BasicRoboticVacuumCleaner
 My first AI project. A robot vacuum cleaner that cleans dirty tiles in a 2-D environment with random obstacles.
 
-## Technology & Algorithm approach
-* Java
-* A-star search algorithm
-
 ## Overview
 * Robot allows to move up, down, left, right direction only.
 * Robot allows to move a tile per Action.
